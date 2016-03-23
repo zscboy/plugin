@@ -1,2 +1,2 @@
 #!/bin/bash
-service wxserver restart
+systemctl restart wxserver.service
